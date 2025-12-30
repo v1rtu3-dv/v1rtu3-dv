@@ -21,7 +21,7 @@ Currently exploring new ways to build on the web and always working on something
 ## Featured Work
 
 ### 🎓 Campus Wrapped
-A personalized year-in-review experience for college students, visualizing their academic journey and campus life in an engaging, shareable format.
+A personalized year-in-review experience for TPS students, visualizing their academic journey and campus life in an engaging, shareable format.
 
 *More projects coming soon...*
 
