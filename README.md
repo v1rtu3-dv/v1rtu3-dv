@@ -25,16 +25,6 @@ A personalized year-in-review experience for TPS students, visualizing their aca
 
 *More projects coming soon...*
 
-## Let's Connect
-
-<div align="center">
-  
-📧 **Email:** thebrantbrothers@gmail.com  
-🎥 **YouTube:** [@LeviBrant13](https://www.youtube.com/@LeviBrant13)
-
-</div>
-
----
 
 <div align="center">
   <i>Always open to collaborating on creative web projects</i>
